@@ -1,0 +1,817 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml">
+    <head>
+            <title>Darkorbit | The space adventure game for your browser.</title>
+            <meta name="description" content="DarkOrbit, the free browser game, is guaranteed to provide you with hours
+        of gaming fun. Register now and get ready for battle" />
+<meta http-equiv="X-UA-Compatible" content="IE=9" />
+
+    <meta name="keywords" content="Space Game, Browser games, DarkOrbit, Dark Orbit, Space shooter games, Online
+        Games, Free games, Action game, Shooter" />
+<meta name="robots" content="">
+
+    <meta http-equiv="Content-Language" content="at, de, ch">
+    <meta name="language" content="deutsch, de, at, ch">
+<meta name="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<meta name="author" content="Bigpoint GmbH">
+<meta name="publisher" content="Bigpoint GmbH">
+<meta name="revisit-after" content="10 days">
+<meta name="page-topic" content="Leisure, Entertainment">
+<meta name="reply-to" content="webmaster@darkorbit.com">
+<meta name="distribution" content="global">
+<meta name="company" content="Bigpoint GmbH">
+<meta name="google-site-verification" content="VdCbc9gGs3pR6RwoYpul4vuz4JyinNAhL1dAr1_5KbI" /><link rel="canonical" href="http://us.darkorbit.com/" />
+<meta property="og:title" content="DarkOrbit" />
+<meta property="og:type" content="game" />
+<meta property="og:url" content="http://darkorbit.bigpoint.com?aid=2640" />
+<meta property="og:image" content="http://darkorbit-22.level3.bpcdn.net/do_img/global/fb_icon.jpg?__cv=3474204cf94bfb7665556ed92f602200" />
+<meta property="og:site_name" content="DarkOrbit" />
+<meta property="fb:admins" content="100002458879178" />
+<meta property="fb:app_id" content="364160817714" />
+<meta property="og:description" content="DarkOrbit will keep you coming back for more! Explore the infinite expanses of outer space in one of the best browser-based, action-packed space shooters ever made. Fly into the face of danger and go where nobody has ever gone before - either on your own or with others. Set a course to discover new galaxies and new lifeforms." />
+<meta property="og:locale" content="us" />
+<meta property="og:locale:alternate" content="de" />
+<meta property="og:locale:alternate" content="en" />
+<meta property="og:locale:alternate" content="fr" />
+<meta property="og:locale:alternate" content="us" />
+<meta property="og:locale:alternate" content="es" />
+<meta property="og:locale:alternate" content="sv" />
+<meta property="og:locale:alternate" content="ru" />
+<meta property="og:locale:alternate" content="it" />
+<meta property="og:locale:alternate" content="tr" />
+<meta property="og:locale:alternate" content="fi" />
+<meta property="og:locale:alternate" content="pl" />
+<meta property="og:locale:alternate" content="da" />
+<meta property="og:locale:alternate" content="pt" />
+<meta property="og:locale:alternate" content="nl" />
+<meta property="og:locale:alternate" content="no" />
+<meta property="og:locale:alternate" content="cs" />
+<meta property="og:locale:alternate" content="sk" />
+<meta property="og:locale:alternate" content="br" />
+<meta property="og:locale:alternate" content="ro" />
+<meta property="og:locale:alternate" content="el" />
+<meta property="og:locale:alternate" content="bg" />
+<meta property="og:locale:alternate" content="hu" />
+<meta property="og:locale:alternate" content="es_CO" />
+<meta property="og:locale:alternate" content="es_VE" />
+<meta property="og:locale:alternate" content="es_CL" />
+<meta property="og:locale:alternate" content="es_AR" />
+<meta property="og:locale:alternate" content="es_PE" />
+<meta property="og:locale:alternate" content="ja" />
+        <link rel="SHORTCUT ICON" href="http://darkorbit-22.level3.bpcdn.net/favicon.ico"  type="image/x-icon">
+        <link href="http://sharedservices.bpcdn.net/bgc/css/bgc-0.10.8.min.css?0001" rel="stylesheet" type="text/css" media="screen" />
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js" charset="UTF-8"></script>
+<script type="text/javascript" src="http://sharedservices.bpcdn.net/bgc/js/bgc-0.10.8.min.js?0001" charset="UTF-8"></script>
+<script type="text/javascript" src="http://www.google.com/recaptcha/api/js/recaptcha_ajax.js" charset="UTF-8"></script>
+
+
+        <link rel="stylesheet" media="all" href="http://darkorbit-22.level3.bpcdn.net/css/cdn/bgc.css?__cv=4ad64e77410f2252615aadee071b9100" />
+        <link rel="stylesheet" media="all" href="http://darkorbit-22.level3.bpcdn.net/css/cdn/externalHomeNew.css?__cv=eee2e1b1c7943918defa3430ce3bc200" />
+        <link rel="stylesheet" media="all" href="http://darkorbit-22.level3.bpcdn.net/css/cdn/jQuery/colorbox-1.3.15.css?__cv=da644e3772f52496bf8edc1724b08c00" />
+        <script type="text/javascript" src="http://darkorbit-22.level3.bpcdn.net/js/jQuery/jquery-1.4.4.min.js?__cv=73a9c334c5ca71d70d092b42064f6400"></script>
+        <script type="text/javascript" src="http://darkorbit-22.level3.bpcdn.net/js/jQuery/colorbox-1.3.15.js?__cv=a194fc92be610b91fcfb885968691800"></script>
+        <script type="text/javascript" src="http://darkorbit-22.level3.bpcdn.net/sharedpages/static/plugin/social/slayer/js/v1/slayer-min.js"></script>
+        <script language="javascript">
+var CDN = "http://darkorbit-22.level3.bpcdn.net/";
+</script>
+<script type="text/javascript" src="http://darkorbit-22.level3.bpcdn.net/js/externalHomeNew.js?__cv=270288210fead54b7f01782a22c39d00"></script>
+
+<script type="text/javascript">
+        // remote scripting library
+        // (c) copyright 2005 modernmethod, inc
+        var sajax_debug_mode = false;
+        var sajax_request_type = "POST";
+        var sajax_target_id = "";
+        var sajax_failure_redirect = "";
+
+        function sajax_debug(text) {
+            if (sajax_debug_mode)
+                alert(text);
+        }
+
+         function sajax_init_object() {
+             sajax_debug("sajax_init_object() called..")
+
+             var A;
+
+             var msxmlhttp = new Array(
+                'Msxml2.XMLHTTP.5.0',
+                'Msxml2.XMLHTTP.4.0',
+                'Msxml2.XMLHTTP.3.0',
+                'Msxml2.XMLHTTP',
+                'Microsoft.XMLHTTP');
+            for (var i = 0; i < msxmlhttp.length; i++) {
+                try {
+                    A = new ActiveXObject(msxmlhttp[i]);
+                } catch (e) {
+                    A = null;
+                }
+            }
+
+            if(!A && typeof XMLHttpRequest != "undefined")
+                A = new XMLHttpRequest();
+            if (!A)
+                sajax_debug("Could not create connection object.");
+            return A;
+        }
+
+        var sajax_requests = new Array();
+
+        function sajax_cancel() {
+            for (var i = 0; i < sajax_requests.length; i++)
+                sajax_requests[i].abort();
+        }
+
+        function sajax_do_call(func_name, args) {
+            var i, x, n;
+            var uri;
+            var post_data;
+            var target_id;
+
+            sajax_debug("in sajax_do_call().." + sajax_request_type + "/" + sajax_target_id);
+            target_id = sajax_target_id;
+            if (typeof(sajax_request_type) == "undefined" || sajax_request_type == "")
+                sajax_request_type = "GET";
+
+            uri = "/sajaxAPI.php?sid=0f85ac6cb50662f976529d2c7d872f98";
+            if (sajax_request_type == "GET") {
+
+                if (uri.indexOf("?") == -1)
+                    uri += "?rs=" + escape(func_name);
+                else
+                    uri += "&rs=" + escape(func_name);
+                uri += "&rst=" + escape(sajax_target_id);
+                uri += "&rsrnd=" + new Date().getTime();
+
+                for (i = 0; i < args.length-1; i++)
+                    uri += "&rsargs[]=" + escape(args[i]);
+
+                post_data = null;
+            }
+            else if (sajax_request_type == "POST") {
+                post_data = "rs=" + escape(func_name);
+                post_data += "&rst=" + escape(sajax_target_id);
+                post_data += "&rsrnd=" + new Date().getTime();
+
+                for (i = 0; i < args.length-1; i++)
+                    post_data = post_data + "&rsargs[]=" + escape(args[i]);
+            }
+            else {
+                alert("Illegal request type: " + sajax_request_type);
+            }
+
+            x = sajax_init_object();
+            if (x == null) {
+                if (sajax_failure_redirect != "") {
+                    location.href = sajax_failure_redirect;
+                    return false;
+                } else {
+                    sajax_debug("NULL sajax object for user agent:\n" + navigator.userAgent);
+                    return false;
+                }
+            } else {
+                x.open(sajax_request_type, uri, true);
+                // window.open(uri);
+
+                sajax_requests[sajax_requests.length] = x;
+
+                if (sajax_request_type == "POST") {
+                    x.setRequestHeader("Method", "POST " + uri + " HTTP/1.1");
+                    x.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
+                }
+
+                x.onreadystatechange = function() {
+                    if (x.readyState != 4)
+                        return;
+
+                    sajax_debug("received " + x.responseText);
+
+                    var status;
+                    var data;
+                    var txt = x.responseText.replace(/^\s*|\s*$/g,"");
+                    status = txt.charAt(0);
+                    data = txt.substring(2);
+
+                    if (status == "") {
+                        // let's just assume this is a pre-response bailout and let it slide for now
+                    } else if (status == "-")
+                        alert("Error: " + data);
+                    else {
+                        if (target_id != "")
+                            document.getElementById(target_id).innerHTML = eval(data);
+                        else {
+                            try {
+                                var callback;
+                                var extra_data = false;
+                                if (typeof args[args.length-1] == "object") {
+                                    callback = args[args.length-1].callback;
+                                    extra_data = args[args.length-1].extra_data;
+                                } else {
+                                    callback = args[args.length-1];
+                                }
+                                callback(eval(data), extra_data);
+                            } catch (e) {
+                                sajax_debug("Caught error " + e + ": Could not eval " + data );
+                            }
+                        }
+                    }
+                }
+            }
+
+            sajax_debug(func_name + " uri = " + uri + "/post = " + post_data);
+            x.send(post_data);
+            sajax_debug(func_name + " waiting..");
+            delete x;
+            return true;
+        }
+
+        
+        // wrapper for searchUser
+        function x_searchUser() {
+            sajax_do_call("searchUser",
+                x_searchUser.arguments);
+        }
+
+        
+        // wrapper for getInstances
+        function x_getInstances() {
+            sajax_do_call("getInstances",
+                x_getInstances.arguments);
+        }
+
+        
+        // wrapper for updateAutoUpdate
+        function x_updateAutoUpdate() {
+            sajax_do_call("updateAutoUpdate",
+                x_updateAutoUpdate.arguments);
+        }
+
+        
+        // wrapper for changeBookmarkStatus
+        function x_changeBookmarkStatus() {
+            sajax_do_call("changeBookmarkStatus",
+                x_changeBookmarkStatus.arguments);
+        }
+
+        
+        // wrapper for closeNewsUpdate
+        function x_closeNewsUpdate() {
+            sajax_do_call("closeNewsUpdate",
+                x_closeNewsUpdate.arguments);
+        }
+
+        
+        // wrapper for closeGuestLayer
+        function x_closeGuestLayer() {
+            sajax_do_call("closeGuestLayer",
+                x_closeGuestLayer.arguments);
+        }
+
+        
+        // wrapper for changeCash_UK
+        function x_changeCash_UK() {
+            sajax_do_call("changeCash_UK",
+                x_changeCash_UK.arguments);
+        }
+
+        </script>
+<script type="text/javascript" charset="UTF-8">
+/* <![CDATA[ */
+try { if (undefined == xajax.config) xajax.config = {}; } catch (e) { xajax = {}; xajax.config = {}; };
+xajax.config.requestURI = "xajaxAPI.php?sid=0f85ac6cb50662f976529d2c7d872f98";
+xajax.config.statusMessages = false;
+xajax.config.waitCursor = true;
+xajax.config.version = "xajax 0.5";
+xajax.config.legacy = false;
+xajax.config.defaultMode = "asynchronous";
+xajax.config.defaultMethod = "POST";
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://darkorbit-22.level3.bpcdn.net/js/xajax_js/xajax_core.js?__cv=7d18ea9cdeb1f1b391cff64cb943d300" charset="UTF-8"></script>
+<script type="text/javascript" charset="UTF-8">
+/* <![CDATA[ */
+window.setTimeout(
+ function() {
+  var scriptExists = false;
+  try { if (xajax.isLoaded) scriptExists = true; }
+  catch (e) {}
+  if (!scriptExists) {
+   alert("Error: the xajax Javascript component could not be included. Perhaps the URL is incorrect?\nURL: http://darkorbit-22.level3.bpcdn.net/js/xajax_js/xajax_core.js?__cv=7d18ea9cdeb1f1b391cff64cb943d300");
+  }
+ }, 2000);
+/* ]]> */
+</script>
+
+<script type='text/javascript' charset='UTF-8'>
+/* <![CDATA[ */
+xajax_disableTradeLayer = function() { return xajax.request( { xjxfun: 'disableTradeLayer' }, { parameters: arguments } ); };
+xajax_saveOldClientUsage = function() { return xajax.request( { xjxfun: 'saveOldClientUsage' }, { parameters: arguments } ); };
+xajax_buySkylabRobot = function() { return xajax.request( { xjxfun: 'buySkylabRobot' }, { parameters: arguments } ); };
+xajax_skillTreePurchaseSkillReset = function() { return xajax.request( { xjxfun: 'skillTreePurchaseSkillReset' }, { parameters: arguments } ); };
+xajax_skillTreePurchaseLevelUp = function() { return xajax.request( { xjxfun: 'skillTreePurchaseLevelUp' }, { parameters: arguments } ); };
+xajax_nanoTechFactoryShowBuff = function() { return xajax.request( { xjxfun: 'nanoTechFactoryShowBuff' }, { parameters: arguments } ); };
+xajax_nanoTechFactoryShowApis = function() { return xajax.request( { xjxfun: 'nanoTechFactoryShowApis' }, { parameters: arguments } ); };
+xajax_handleImageUpload = function() { return xajax.request( { xjxfun: 'handleImageUpload' }, { parameters: arguments } ); };
+xajax_pilotSheet = function() { return xajax.request( { xjxfun: 'pilotSheet' }, { parameters: arguments } ); };
+xajax_achievement = function() { return xajax.request( { xjxfun: 'achievement' }, { parameters: arguments } ); };
+xajax_pilotInvite = function() { return xajax.request( { xjxfun: 'pilotInvite' }, { parameters: arguments } ); };
+xajax_pilotInviteIncentives = function() { return xajax.request( { xjxfun: 'pilotInviteIncentives' }, { parameters: arguments } ); };
+xajax_externalPPP = function() { return xajax.request( { xjxfun: 'externalPPP' }, { parameters: arguments } ); };
+xajax_socialInviteDispatch = function() { return xajax.request( { xjxfun: 'socialInviteDispatch' }, { parameters: arguments } ); };
+xajax_tooltipAjaxHandler = function() { return xajax.request( { xjxfun: 'tooltipAjaxHandler' }, { parameters: arguments } ); };
+xajax_showHelpNeverAgain = function() { return xajax.request( { xjxfun: 'showHelpNeverAgain' }, { parameters: arguments } ); };
+xajax_loadUserInfo = function() { return xajax.request( { xjxfun: 'loadUserInfo' }, { parameters: arguments } ); };
+xajax_switchHangar = function() { return xajax.request( { xjxfun: 'switchHangar' }, { parameters: arguments } ); };
+xajax_loadHangarInfo = function() { return xajax.request( { xjxfun: 'loadHangarInfo' }, { parameters: arguments } ); };
+xajax_setHangarSelected = function() { return xajax.request( { xjxfun: 'setHangarSelected' }, { parameters: arguments } ); };
+xajax_changeHangarName = function() { return xajax.request( { xjxfun: 'changeHangarName' }, { parameters: arguments } ); };
+xajax_feedbackForm = function() { return xajax.request( { xjxfun: 'feedbackForm' }, { parameters: arguments } ); };
+xajax_setFeedBackForm = function() { return xajax.request( { xjxfun: 'setFeedBackForm' }, { parameters: arguments } ); };
+xajax_getCompanionAppCode = function() { return xajax.request( { xjxfun: 'getCompanionAppCode' }, { parameters: arguments } ); };
+xajax_signupArena = function() { return xajax.request( { xjxfun: 'signupArena' }, { parameters: arguments } ); };
+xajax_loadAuctionQuantityManager = function() { return xajax.request( { xjxfun: 'loadAuctionQuantityManager' }, { parameters: arguments } ); };
+xajax_getListOfInstances = function() { return xajax.request( { xjxfun: 'getListOfInstances' }, { parameters: arguments } ); };
+xajax_loadClanInfo = function() { return xajax.request( { xjxfun: 'loadClanInfo' }, { parameters: arguments } ); };
+/* ]]> */
+</script>
+
+
+        <!-- affiliateHeadTag -->
+<link rel="meta" href="http://darkorbit.bigpoint.com/sharedpages/icra/labels.php" type="application/rdf+xml" title="ICRA labels" />
+<meta http-equiv="pics-Label" content='(pics-1.1 "http://www.icra.org/pics/vocabularyv03/" l gen true for "http://darkorbit.bigpoint.com" r (n 0 s 0 v 0 l 1 oa 0 ob 0 oc 0 od 1 oe 0 of 0 og 0 oh 0 c 1))' />
+        
+
+        <style>
+            
+            .bgc_signup_container_form input.bgc_signup_form_register {
+            background: url("http://darkorbit-22.level3.bpcdn.net/do_img/en/externalDefault/cta.png?__cv=a3c9d3aefa9c69f9a8a99e587b8c7800") no-repeat;
+            }
+            
+        </style>
+    </head>
+    <body>
+    
+    <script>
+	function checkMyCookies() {
+
+	    var cookieLeMess = 'Please activate cookies for your browser.';
+
+		var cookieEnabled=(navigator.cookieEnabled)? '' : cookieLeMess
+
+		//if not IE4+ nor NS6+
+		if (typeof navigator.cookieEnabled =="undefined" && !cookieEnabled){
+
+			cookieEnabled=(document.cookie.indexOf("testcookie")!=-1)? '' : cookieLeMess
+		}
+
+		return cookieEnabled;
+	}
+</script>
+    <noscript><div id="noScript">Please activate Java Script for your browser.</div></noscript>
+    
+    <script type="text/javascript">
+        
+        var cookieMessage = checkMyCookies()
+        if("" != cookieMessage) {
+            document.write('<div id="noCookie">' + cookieMessage + '</div>');
+        }
+        
+    </script>
+        <div id="busy_layer"></div>
+    
+    <!-- EventStream ServerAdapter getJavascriptPageTag --><script language="javascript">window.BpEventStream=window.BpEventStream||{"time":new Date().getTime(),"context":{"pid":22,"tid":"920aaf6b6b773b6765df5c60be862128","iid":"b4377f6efe3431e0d1c1456566b975dd","sid":"0f85ac6cb50662f976529d2c7d872f98","ctime":1403976676401}};</script><script language="javascript" src="//assets.bpsecure.com/eventstream/eventstream.js?ts=4679922"></script>
+
+    <!-- affiliateStartTag -->
+
+
+    <script type="text/javascript">
+        
+
+        jQuery(document).ready(function(){
+            /* slayer   */
+        var initParameter = {
+            jQueryLibrary   : jQuery, // Pass the jQuery object, the way you named it
+            google          : { language : 'en-US'},
+            facebook        : { language : 'en_US'},
+            gameId        	: 22,
+            gameTitle     	: 'Darkorbit'
+        }
+
+            // Initialize SLAYER
+            SLAYER.init(initParameter);
+
+            var plusoneParameter = {
+                renderPlaceholder  : false,                     // Render placeholder according to german law. Default 'false'
+                container          : 'DOGooglePlus',                // Div tag where the button should be rendered
+                annotation         : 'bubble',                     // Rendering of the count. Options: none, bubble, inline
+                href               : 'http://darkorbit.bigpoint.com',  // The link you want to plus one
+                size               : 'medium',                 // Size of the button. Can be: small, medium, standard, tall
+                onstartinteraction : function(json) {},          // This function gets called if the user hovers the +1 button
+                onendinteraction   : function(json) {},          // This function gets called if the user unhovers the +1 button
+                expandto           : 'top, right, bottom, left' // The preferred positions in which to display hover and confirmation bubbles, relative to the button.
+            }
+            SLAYER.renderPlusOne(plusoneParameter);
+
+            var facebooklikeParameter = {
+                container   : 'DOFacebookLike',            			// Div container where the button will be rendered
+                href        : 'http://darkorbit.bigpoint.com',    	// Default is current URL
+                send        : false,                     			// Show the send button. Default false
+                layout      : 'button_count',                		// You can use 'standard', 'button_count' or 'box_count'
+                show_faces  : false,                      			// Show profile pictures of people who liked. Only works with standard layout.
+                width       : 100,                     				// Width of the button.
+                action      : 'like',                   			// What to display on the button. Default 'like'. Options: 'like', 'recommend'
+                font        : 'arial',                   			// The font on the button. Available fonts: 'arial', 'lucida grande', 'segoe ui', 'tahoma', 'trebuchet ms', 'verdana'
+                colorscheme : 'light'                  				// Colors for the button. Default 'like'. Options: 'light', 'dark'
+            }
+            SLAYER.renderLike(facebooklikeParameter);
+        });
+
+        /* open ID */
+
+        function showOpenId(){
+            jQuery('#loginForm_openId_container').show();
+        }
+        function hideOpenId(){
+            jQuery('#loginForm_openId_container').hide();
+        }
+        
+    </script>
+<style>
+        /* smarty fix for lang placeholder */
+    
+    .signup_submit {
+    background: url("http://darkorbit-22.level3.bpcdn.net/do_img/en/externalDefault/cta.png?__cv=a3c9d3aefa9c69f9a8a99e587b8c7800") center center no-repeat;
+    }
+    .bgcdw_login_form_buttons .bgcdw_login_form_login{
+    background: url("http://darkorbit-22.level3.bpcdn.net/do_img/en/externalDefault/button_login.png?__cv=cd725a3216183f70732bdf116cf41100") center center no-repeat;
+    }
+    #loginForm_openId_container #loginForm_openId_loginButton{
+    background: url("http://darkorbit-22.level3.bpcdn.net/do_img/en/externalDefault/button_login.png?__cv=cd725a3216183f70732bdf116cf41100") no-repeat scroll center center transparent;
+    }
+    
+</style>
+
+<form id="bgc_sasform_config"><input type="hidden" name="reloadToken" value="f51bc7b1e82682de539401ea8c52c15e">
+    <input type="hidden" name="placeholder" value="login">
+</form>
+
+<input type="hidden" id="tucReplacementTxt" value="The game is subject to the following:" />
+
+<div id="eh_main_wrapper">
+
+    
+    <div id="eh_head_wrapper">
+        <div id="eh_head_info">
+            <div id="eh_lang_selection_wrapper" class="fontStyle">
+                <div id="selectedLanguageBox" onclick="jQuery('#languageBox').slideToggle(300);">
+                    <img src="http://darkorbit-22.level3.bpcdn.net/do_img/global/flaggen/plain/us.png?__cv=4e0a76533cc5a5a0aab42d43ab1a0f00" alt="English US" id="currentLanguageFlag" />
+                    <div id="currentLanguageText">English US</div>
+                    <div id="languageArrow"></div>
+                </div>
+
+                <div id="languageBox" style="display: none">
+                                    <div class="languageList" onclick="location.href = 'index.es?lang=de';">
+                        <div class="languageFlag" style="background-image: url(http://darkorbit-22.level3.bpcdn.net/do_img/global/flaggen/plain/de.png?__cv=0d24c6cc314545488440dd6ad9827200);"></div>
+                        <div class="languageName">Deutsch</div>
+                    </div>
+                                    <div class="languageList" onclick="location.href = 'index.es?lang=en';">
+                        <div class="languageFlag" style="background-image: url(http://darkorbit-22.level3.bpcdn.net/do_img/global/flaggen/plain/en.png?__cv=4780233e416a7a10e2f24245f9d4ed00);"></div>
+                        <div class="languageName">English UK</div>
+                    </div>
+                                    <div class="languageList" onclick="location.href = 'index.es?lang=fr';">
+                        <div class="languageFlag" style="background-image: url(http://darkorbit-22.level3.bpcdn.net/do_img/global/flaggen/plain/fr.png?__cv=40f86c9d2d364ab79ad841b84a103000);"></div>
+                        <div class="languageName">Français</div>
+                    </div>
+                                    <div class="languageList" onclick="location.href = 'index.es?lang=us';">
+                        <div class="languageFlag" style="background-image: url(http://darkorbit-22.level3.bpcdn.net/do_img/global/flaggen/plain/us.png?__cv=4e0a76533cc5a5a0aab42d43ab1a0f00);"></div>
+                        <div class="languageName">English US</div>
+                    </div>
+                                    <div class="languageList" onclick="location.href = 'index.es?lang=es';">
+                        <div class="languageFlag" style="background-image: url(http://darkorbit-22.level3.bpcdn.net/do_img/global/flaggen/plain/es.png?__cv=05d92c877921ed463291023818faed00);"></div>
+                        <div class="languageName">Español</div>
+                    </div>
+                                    <div class="languageList" onclick="location.href = 'index.es?lang=sv';">
+                        <div class="languageFlag" style="background-image: url(http://darkorbit-22.level3.bpcdn.net/do_img/global/flaggen/plain/sv.png?__cv=014f2e55f8dbeba40c7bb5d5bb1cfc00);"></div>
+                        <div class="languageName">Svenska</div>
+                    </div>
+                                    <div class="languageList" onclick="location.href = 'index.es?lang=ru';">
+                        <div class="languageFlag" style="background-image: url(http://darkorbit-22.level3.bpcdn.net/do_img/global/flaggen/plain/ru.png?__cv=7d3638482ca0dd6f44a9524647b98700);"></div>
+                        <div class="languageName">Pyccĸий</div>
+                    </div>
+                                    <div class="languageList" onclick="location.href = 'index.es?lang=it';">
+                        <div class="languageFlag" style="background-image: url(http://darkorbit-22.level3.bpcdn.net/do_img/global/flaggen/plain/it.png?__cv=de010805893259e0532d9685585aa500);"></div>
+                        <div class="languageName">Italiano</div>
+                    </div>
+                                    <div class="languageList" onclick="location.href = 'index.es?lang=tr';">
+                        <div class="languageFlag" style="background-image: url(http://darkorbit-22.level3.bpcdn.net/do_img/global/flaggen/plain/tr.png?__cv=95b9afb0918caf747aa565da8e04f800);"></div>
+                        <div class="languageName">Tϋrkçe</div>
+                    </div>
+                                    <div class="languageList" onclick="location.href = 'index.es?lang=fi';">
+                        <div class="languageFlag" style="background-image: url(http://darkorbit-22.level3.bpcdn.net/do_img/global/flaggen/plain/fi.png?__cv=f0cec5e7c0be4f2324e784574c5fb300);"></div>
+                        <div class="languageName">Suomi</div>
+                    </div>
+                                    <div class="languageList" onclick="location.href = 'index.es?lang=pl';">
+                        <div class="languageFlag" style="background-image: url(http://darkorbit-22.level3.bpcdn.net/do_img/global/flaggen/plain/pl.png?__cv=f258bd02b53305188cf170dead593f00);"></div>
+                        <div class="languageName">Polski</div>
+                    </div>
+                                    <div class="languageList" onclick="location.href = 'index.es?lang=da';">
+                        <div class="languageFlag" style="background-image: url(http://darkorbit-22.level3.bpcdn.net/do_img/global/flaggen/plain/da.png?__cv=ef7df6e9cccf21be1af070ffdf95be00);"></div>
+                        <div class="languageName">Dansk</div>
+                    </div>
+                                    <div class="languageList" onclick="location.href = 'index.es?lang=pt';">
+                        <div class="languageFlag" style="background-image: url(http://darkorbit-22.level3.bpcdn.net/do_img/global/flaggen/plain/pt.png?__cv=842367c73880953df40ef972cc2a0200);"></div>
+                        <div class="languageName">Português</div>
+                    </div>
+                                    <div class="languageList" onclick="location.href = 'index.es?lang=nl';">
+                        <div class="languageFlag" style="background-image: url(http://darkorbit-22.level3.bpcdn.net/do_img/global/flaggen/plain/nl.png?__cv=1342edbbf4f75a44bb906c19ce99c800);"></div>
+                        <div class="languageName">Nederlands</div>
+                    </div>
+                                    <div class="languageList" onclick="location.href = 'index.es?lang=no';">
+                        <div class="languageFlag" style="background-image: url(http://darkorbit-22.level3.bpcdn.net/do_img/global/flaggen/plain/no.png?__cv=a2b90aaa8629340810aaf37af929fd00);"></div>
+                        <div class="languageName">Norsk</div>
+                    </div>
+                                    <div class="languageList" onclick="location.href = 'index.es?lang=cs';">
+                        <div class="languageFlag" style="background-image: url(http://darkorbit-22.level3.bpcdn.net/do_img/global/flaggen/plain/cs.png?__cv=b60080f2f8ae73df8d66e60ae12bf600);"></div>
+                        <div class="languageName">Čeština</div>
+                    </div>
+                                    <div class="languageList" onclick="location.href = 'index.es?lang=sk';">
+                        <div class="languageFlag" style="background-image: url(http://darkorbit-22.level3.bpcdn.net/do_img/global/flaggen/plain/sk.png?__cv=c37310037495f7c73cec93b958396b00);"></div>
+                        <div class="languageName">Slovenčina</div>
+                    </div>
+                                    <div class="languageList" onclick="location.href = 'index.es?lang=br';">
+                        <div class="languageFlag" style="background-image: url(http://darkorbit-22.level3.bpcdn.net/do_img/global/flaggen/plain/br.png?__cv=573df60602af4a6824d68ae946971e00);"></div>
+                        <div class="languageName">Português BR</div>
+                    </div>
+                                    <div class="languageList" onclick="location.href = 'index.es?lang=ro';">
+                        <div class="languageFlag" style="background-image: url(http://darkorbit-22.level3.bpcdn.net/do_img/global/flaggen/plain/ro.png?__cv=09157076a68899af0af66412cfd98e00);"></div>
+                        <div class="languageName">Română</div>
+                    </div>
+                                    <div class="languageList" onclick="location.href = 'index.es?lang=el';">
+                        <div class="languageFlag" style="background-image: url(http://darkorbit-22.level3.bpcdn.net/do_img/global/flaggen/plain/el.png?__cv=d4001a73f840a216417f512a538ec000);"></div>
+                        <div class="languageName">Ελληνικά</div>
+                    </div>
+                                    <div class="languageList" onclick="location.href = 'index.es?lang=bg';">
+                        <div class="languageFlag" style="background-image: url(http://darkorbit-22.level3.bpcdn.net/do_img/global/flaggen/plain/bg.png?__cv=fbc457b23d0a43c97be406c9705a3f00);"></div>
+                        <div class="languageName">Български</div>
+                    </div>
+                                    <div class="languageList" onclick="location.href = 'index.es?lang=hu';">
+                        <div class="languageFlag" style="background-image: url(http://darkorbit-22.level3.bpcdn.net/do_img/global/flaggen/plain/hu.png?__cv=7b1ae9b429bc379064d0995cf2abfb00);"></div>
+                        <div class="languageName">Magyar</div>
+                    </div>
+                                    <div class="languageList" onclick="location.href = 'index.es?lang=es_CO';">
+                        <div class="languageFlag" style="background-image: url(http://darkorbit-22.level3.bpcdn.net/do_img/global/flaggen/plain/es_CO.png?__cv=c1e4ae7a9e95cce975e946498380c900);"></div>
+                        <div class="languageName">Colombia</div>
+                    </div>
+                                    <div class="languageList" onclick="location.href = 'index.es?lang=es_VE';">
+                        <div class="languageFlag" style="background-image: url(http://darkorbit-22.level3.bpcdn.net/do_img/global/flaggen/plain/es_VE.png?__cv=f18fab91cb99d465b9b91214f9846400);"></div>
+                        <div class="languageName">Venezuela</div>
+                    </div>
+                                    <div class="languageList" onclick="location.href = 'index.es?lang=es_CL';">
+                        <div class="languageFlag" style="background-image: url(http://darkorbit-22.level3.bpcdn.net/do_img/global/flaggen/plain/es_CL.png?__cv=1961fb3070a46d739a7c022dc0296800);"></div>
+                        <div class="languageName">Chile</div>
+                    </div>
+                                    <div class="languageList" onclick="location.href = 'index.es?lang=es_AR';">
+                        <div class="languageFlag" style="background-image: url(http://darkorbit-22.level3.bpcdn.net/do_img/global/flaggen/plain/es_AR.png?__cv=49a3f87889dff19c1a631e5db25ece00);"></div>
+                        <div class="languageName">Argentina</div>
+                    </div>
+                                    <div class="languageList" onclick="location.href = 'index.es?lang=es_PE';">
+                        <div class="languageFlag" style="background-image: url(http://darkorbit-22.level3.bpcdn.net/do_img/global/flaggen/plain/es_PE.png?__cv=6cb8717eecb63b8f25733f00c092cf00);"></div>
+                        <div class="languageName">Perú</div>
+                    </div>
+                                </div>
+            </div>
+            <div id="eh_reg_display" class="fontStyle">
+            Registered: 87,852,285
+            </div>
+        </div>
+
+                    <div class="do_social_features">
+                <div id="DOGooglePlus" class="socialBox "></div>                <div id="DOFacebookLike" class="socialBox "></div>            </div>
+            <div style="clear: both;"></div>
+        
+                    <div id="do_cobrand_container">
+                <img id="PartnerCobrandLogo" src="http://pit-835.a.bpcdn.net/published/cobrands/0_22_2.png" />
+            </div>
+            </div>
+
+    <div id="eh_top_overlay">
+        <div id="eh_top_wrapper">
+            <div id="eh_login_container">
+                <input type="hidden" id="autoFocus" value="loginForm" />
+                
+                <div class="bgc_fbConnect_container_link bgc">
+    <a class="bgc_fbConnect layout2" href="http://www.facebook.com/dialog/oauth?client_id=364160817714&amp;redirect_uri=http%3A%2F%2Fdarkorbit.bigpoint.com%2FProjectApi%2FFacebookConnect%3FauthUser%3D22%26token%3DtHViWxSXSxn0ZP19FdPAog28HCCI_zU_iXkIts3xkC3fCnonX_A1g0jH_pif6v65jJntDFMNz7OQaClTwYHCnu4PFbp_rqlsoE62sr20loqpBH1XSffRrsXwbCZpGFZiV2sydR0gZ4EWhNKKCLVIoitYi3dW-N2Czv_XcMMbmvr9huDDbeCNrcYHpkOFuKN5rQuIaSzhdpK6hy6_FuK-ZyA83A8_6rxYWRsw024evR5ifLRNCK96-ufKZA--pvO__rRk48Sr081yAv31c3LfUtfIAmwFzL7DV8vjUfgmRm-uF4iUKxB8HwzLOiF9-QDNj8WuDDGVKofsJyGMdmWZmc-VAxri61ln8HznSo_JqPzwapPR_TPsXsNHjhUvhXkwenxmNqETgp9k1mbSzwcaIAe-lGsMPGCDYwwLJOccfTOfyVj7VsLRFF95U3mYIhCflPeUSEsu6U1Lx6wqFHemQhwmmb6rU2ykS2kwO4twn7yDDJ3otC-5EZ_ThWAhd0XqRD_-rMAMuZgZo5GvyNZUL10CsEBnNxoJXcFsB-G4M4OJBx96rKickSF6sTYHpESn75eSe0Hx4y-efa-hg41z6XHF5HCP4WHURJaa6bOR25JxN04IAb-XSls&amp;scope=email%2Cuser_birthday">
+        <div class="bgc_fbConnect_button bgc_facebookIcon"></div>
+    </a>
+</div>
+
+                    <!-- contains login -->
+                <div class="bgcdw_login_container bgc">
+
+    <div class="bgcdw_login_container_form">
+        <form name="bgcdw_login_form" method="post" class="bgcdw_login_form" action="https://auth3.bpsecure.com/Sas/Authentication/Bigpoint?authUser=22&amp;token=vUh2QT6XGroe9quWkNRssU3flpCV5LLTg70M1l7_xfY4VZSK6QE0xCDay4TkiP-vbVRaYzbmQvSNGxvmqdc-7EwnG6TxrNGWMo0Qm-AWb5Dhl6Wx1hqov7ax1xd8igYxu4yfV71s1C8xi1fnNZu9Cmg8P2AXU1thCzVBIXhslon3pzLmI11BoniHJembrowIJoKSoliCw-B1NssUoIzsgFVgeUOIv_d9w7We4PPr7fOtm1JnFMPVgT1XIYvgaJqdzxXkbqfm6LaO4WInViP9H3WnDQnB_xL3G1_QcKgRttSyst1Vpw2dYwU21djHnSAhmC0TxfAHqiBx9YRJVPiQPyLEGQu61TaBXGPn3u602asg9PgMCez4nbdErsoFUg_FtqiEYVWIf2y9tP9-J6qlMUmLXebn_ygEqHF-V0PKDazUiA">
+            <div class="bgc_error_translations" style="display:none">
+                <div data-error-key="gl.error.username_1">This username is too short. Please choose a new username which has between 4 and 20 characters.</div>
+                <div data-error-key="gl.error.username_2">This username is too long. Please choose a new username which has between 4 and 20 characters.</div>
+                <div data-error-key="gl.error.username_6">Please enter your username.</div>
+                <div data-error-key="gl.error.password_1">The password is too short. Please choose a new password which has between 4 and 45 characters.</div>
+                <div data-error-key="gl.error.password_2">The password is too long. Please choose a new password which has between 4 and 45 characters.</div>
+                <div data-error-key="gl.error.password_8">Please enter your password.</div>
+                <div data-error-key="gl.error.email_1">Your e-mail address doesn't seem to be correct. Please enter a valid e-mail address.</div>
+                <div data-error-key="gl.error.checkbox_tick">Please tick the checkbox.</div>
+            </div>
+            <fieldset class="bgcdw_login_form_login">
+<div class="bgcdw_input_text bgcdw_login_form_username">
+                    <label for="bgcdw_login_form_username">Username</label>
+                    <input id="bgcdw_login_form_username" name="username" type="text" maxlength="20">
+</div>
+                <div class="bgcdw_input_password bgcdw_login_form_password">
+                    <label for="bgcdw_login_form_password">Password</label>
+                    <input id="bgcdw_login_form_password" name="password" type="password" maxlength="45">
+</div>
+            </fieldset>
+<div class="bgcdw_login_container_remindpassword">
+                <a class="bgcdw_remindpassword" target="_self" href="https://account.bpsecure.com/PasswordReminder?pid=22&amp;lang=us">Forgot your password?</a>
+            </div>
+            <fieldset class="bgcdw_login_form_buttons">
+<input class="bgcdw_button bgcdw_login_form_login" type="submit" value="Login"><input class="bgcdw_button bgcdw_login_form_register" type="button" onclick="window.location='/';return false;" value="Register">
+</fieldset>
+</form>
+    </div>
+</div>
+
+
+                            </div>
+
+            <div id="eh_reg_container">
+                <br />
+                <img id="do_registration_container_titel" src="http://darkorbit-22.level3.bpcdn.net/do_img/en/externalDefault/txt_form.png?__cv=56c5145beab0acfad9af863327653300" alt="Regform title" />
+                <img id="do_registration_container_splitter" src="http://darkorbit-22.level3.bpcdn.net/do_img/global/externalHome/assets/blue_splitter.png?__cv=c93b27f6423b60b4d94bc1cc3331b500" />
+
+                <div id="bgc_signup_short_container" class="bgc_signup_container bgc">
+    <div class="bgc_signup_container_form">
+        <form method="post" name="bgc_signup_form" class="bgc_signup_form" autocomplete="off" action="https://auth3.bpsecure.com/Sas/User/ShortReg?authUser=22&amp;token=3M8wQr6OvaUUCd-FpnIFvRsGwa2b8xatTRpi_Xw-5CgWQeS8JqZ_YmtMnwrxiyMMn-GawNnBYUjuiBlMUY-tdWt0t1lb7PcUclbvaDAqQ_3HATgFi5T3bHidBci7SWmyRv0GGMtafvvv7ZkS0XsBLgWuCvhiD7WudhjMXMNhMG_6DaRY151fsD6u00J5DI7_Z59-j6mTBbBzfyCxWvP0bUN9fP8-WJLFh-khP0XOlKxyv0blNCVstz6Qayvm6c0BVkXShxDsQZPiyr24PLmS2zw0LW0vD0a0HUOJ1nZnW7oVMpST6WMY8NzXDSJrEg02VSvU9VdViaJD_HOT3j5DnQsg5I_RpiED5QUyicelrzWqeois7_XKhAT3vk-8GOdy2lq1mbnvrzHR-EdfV64SQomMYEomtvI0dpnNA6US1zI8I8fMWa4bbn-FNbEqtlWKKhFUNZ6lMJYgmsDrH-va_iNgDjo3BcB-3nDba7VSLy9otbqB5paoJ--km8qADxjqjvwoR5r7LCKxIkvrOU2DQpig9pEjPe6Qy1HRjgAUm0uKUF2qqDHTL0IbtJqAWUlTOX6U6hOp_hfdm3WimjcDjRlJCDkdrwMK">
+        <div class="bgc_error_translations" style="display:none">
+            <div data-error-key="gl.error.username_1">This username is too short. Please choose a new username which has between 4 and 20 characters.</div>
+            <div data-error-key="gl.error.username_2">This username is too long. Please choose a new username which has between 4 and 20 characters.</div>
+            <div data-error-key="gl.error.username_3">This username contains invalid characters. Please do not use any spaces or special characters, for example, @.</div>
+            <div data-error-key="gl.error.password_1">The password is too short. Please choose a new password which has between 4 and 45 characters.</div>
+            <div data-error-key="gl.error.password_2">The password is too long. Please choose a new password which has between 4 and 45 characters.</div>
+            <div data-error-key="gl.error.password_3">The password you entered contains invalid characters.</div>
+            <div data-error-key="gl.error.password_6">The passwords you entered do not match.</div>
+            <div data-error-key="gl.error.password_7">Your password must be different than your username.</div>
+            <div data-error-key="gl.error.login_1">No account with this combination of username and password was found.</div>
+            <div data-error-key="gl.error.email_1">Your e-mail address doesn't seem to be correct. Please enter a valid e-mail address.</div>
+            <div data-error-key="gl.error.captcha_1">That didn't work. Please enter the characters from the image.</div>
+        </div>
+            <fieldset class="bgc_signup_form_signup">
+<div class="bgc_input_text bgc_signup_form_username">
+                    <label for="bgc_signup_form_username">Username</label>
+                    <input maxlength="20" minlength="4" id="bgc_signup_form_username" name="username" type="text">
+</div>
+                <div class="bgc_input_password bgc_signup_form_password">
+                    <label for="bgc_signup_form_password">Password</label>
+                    <input maxlength="45" minlength="4" id="bgc_signup_form_password" name="password" type="password">
+</div>
+                <div class="bgc_input_email bgc_signup_form_email">
+                    <label for="bgc_signup_form_email">E-mail</label>
+                    <input maxlength="64" id="bgc_signup_form_email" name="email" type="email">
+</div>
+                
+            </fieldset>
+            
+            <fieldset class="bgc_signup_form_legal">
+                <div class="bgc_signup_form_policies">
+                     <span>The game is subject to the following:</span><br><a class="link_tac" target="_blank" href="/sharedpages/termsofuse/?lang=us">Terms & Conditions</a>
+                     <a class="link_dataPrivacy" target="_blank" href="/sharedpages/privacypolicy/?lang=us">Data Privacy Policy</a>
+                     <a class="link_safeHarbour" target="_blank" href="/sharedpages/safeharbor/">Safe Harbor Policy</a>
+                 </div>
+            </fieldset>
+<fieldset class="bgc_signup_form_buttons">
+<input class="bgc_button bgc_signup_form_back" type="button" onclick="window.location='/';return false;" value="Back"><input class="bgc_button bgc_signup_form_register" type="submit" value="Register">
+</fieldset>
+</form>
+    </div>
+</div>
+<script language="javascript">if(window.BpEventStream && window.jQuery) (function() {window.jQuery(".bgcdw_remindpassword").click(function() { window.BpEventStream.track("account.forgotpassword.click"); });window.jQuery(".bgc_signup_form_register").click(function() { var e=[]; window.jQuery("div.bgcdw_errors ul").each(function(_,i){e.push(window.jQuery(i).attr("data-error"));}); if (!e || e.join("")=="") return; window.BpEventStream.track("account.signup.error", {"error":e.join(",")}); });function isVisible(elm) { if (!elm.is(":visible")) return false; var w=window.jQuery(window); if (elm.offset().top < w.scrollTop()) return false; if (elm.offset().top > w.scrollTop()+w.height()) return false; return true; }window.setTimeout(function() { if (isVisible(window.jQuery(".bgcdw_login_container"))) { window.BpEventStream.track("account.login.visible"); } else { window.setTimeout(arguments.callee, 500); } }, 100);window.setTimeout(function() { if (isVisible(window.jQuery(".bgc_signup_container"))) { window.BpEventStream.track("account.signup.visible"); } else { window.setTimeout(arguments.callee, 500); } }, 100);})()</script>
+            </div>
+
+            <div id="eh_trailer_container">
+                <div id="eh_trailer">
+                    <object width="475" height="297" id="_5634699166" name="_5634699166" data="http://darkorbit-22.level3.bpcdn.net/do_img/global/externalHome/assets/trailer.swf?__cv=761c8c6f9ebf43539a0b0a89736ed100" type="application/x-shockwave-flash" style="display: block; margin: 0 auto;">
+                        <param name="allowfullscreen" value="true">
+                        <param name="allowscriptaccess" value="always">
+                        <param name="quality" value="high">
+                        <param name="wmode" value="transparent">
+                        <param name="flashVars" value="ordner=http://darkorbit-22.level3.bpcdn.net/do_img/global/externalHome/assets/trailer_do.flv?__cv=4a10f9c0810ffb9282adc7c4078ea500">
+                    </object>
+                </div>
+            </div>
+
+            <div id="eh_screenshot_container_left">
+                <a class="eh_screen_trigger" href="http://darkorbit-22.level3.bpcdn.net/do_img/global/externalHome/assets/screenshots/screen_1.jpg?__cv=a8501044bad4f3ffd0debffaa98e5700" rel="screenshots"></a>
+                <a class="eh_screen_trigger" href="http://darkorbit-22.level3.bpcdn.net/do_img/global/externalHome/assets/screenshots/screen_2.jpg?__cv=ac3d2e41d6497e50f145b2a85740b400" rel="screenshots"></a>
+            </div>
+            <div id="eh_screenshot_container_right">
+                <a class="eh_screen_trigger" href="http://darkorbit-22.level3.bpcdn.net/do_img/global/externalHome/assets/screenshots/screen_3.jpg?__cv=d14f6455dd0a8d06f9c4b1bf90937400" rel="screenshots"></a>
+                <a class="eh_screen_trigger" href="http://darkorbit-22.level3.bpcdn.net/do_img/global/externalHome/assets/screenshots/screen_4.jpg?__cv=9cd2c2338e13d2231584a5a8b29e1300" rel="screenshots"></a>
+            </div>
+
+        </div>
+    </div>
+
+    <div id="eh_bg_v2" class="eh_company_bg"></div>
+
+    <div id="footerContainer">
+
+        <div id="eh_description_txt">
+        <h1>DarkOrbit – Join the intergalactic struggle for control of the galaxy<h1>
+<h2>Engage the thrusters and prepare for battle in the free space MMO. Team up with millions of space pilots for a bitter fight to the end<h2>Listen up space pilot! The vast expanse of DarkOrbit awaits! Choose your spacecraft and make for your battle station poste-haste to lend a fighting hand to the efforts of mankind and vanquish the alien vermin threatening the existence of man. Take up the fight as you range the galaxy at the helm of your very own space ship. Sign up today in DarkOrbit, become a space pilot, place your allegiances in one of three factions, while joining forces with fellow pilots or forming clans in an effort to round up valuable resources and lead your faction to victory, while dispatching scores of galactic garbage in the free-to-play space game for your computer’s browser! 
+
+<h3>Whatever the Company you keep, it’s yours in the Galaxy<h3>
+However, evil aliens are not the only danger lurking about in Bigpoint’s action-packed space MMO! Begin your journey through space in DarkOrbit by selecting one of three rival factions - each replete with their own philosophy of achieving victory in this interstellar fight. Use force, might and aggression in the Mars Mining Organization to emerge victorious, achieve your goals with monetary might in the Earth Industries Corporation or wield cunning and grace to defeat your enemies in the Venus Resources Unlimited. No matter your decision, your quest is the same: compile valuable resources and turn the tide of the galactic struggle to claim victory in this shooter full of fulminant space action.
+
+<h3>Command the Ship of your Choice<h3>
+Faction affiliations notwithstanding, Bigpoint’s smash space browser game gives you a plethora of unique options of putting your own personal touch on your individual struggle throughout space. DarkOrbit puts you in command – find your spacecraft from a host of specialized ships: from ships specialized in laying quick waste to enemy hordes and swift space ships fleet of foot designed to gather invaluable intel to bulky contraptions of high-tech brawn that lay down vital cover to your allies, while meting out heavy damage to targets. 
+
+<h3>Join the Epitome of an Online Community<h3>
+What truly makes DarkOrbit unique, setting it apart from the competition is one thing: You! While other browser games claim to be multiplayer, they simply cannot hold a flame to DarkOrbit’s massive community: over 80 million active players blast off each and every day. Thanks to You and yours, DarkOrbit is the premiere cult online space games. Join the skirmish today alongside millions of space pilots or stand against floes of imposing enemies determined to see out your destruction. Arm your weapons and remain ready – with danger lurking at every turn, a moment’s hesitation can be the difference between success or failure.
+
+<h3>Fight with Friends, or Against<h3>
+Roam the myriad of galaxies of one of the all-time favorite space shooters. Fraught with danger at seemingly every turn, players must be on their guard and remain alert while scouring for resources, discovering new maps or completing a host of new missions. Form a clan with your friends and respected fellow pilots to boost your chances of victory and survival against hordes of imposing intergalactic beasts, or take on the most intimidating quests as you and your crew attempt to level up at the speed of light.
+        </div>
+
+        <div id="eh_footer">
+
+        <!--gl footer-->
+<div id="gl_footer">
+
+
+	<span id="gl_footer_element_copyright" class="gl_footer_element">&copy; Bigpoint</span>
+
+	<span class="gl_footer_element_separator">&nbsp;·&nbsp;</span>
+	<span id="gl_footer_element_allrights" class="gl_footer_element">All rights reserved</span>
+
+	<span class="gl_footer_element_separator">&nbsp;·&nbsp;</span>
+	<span id="gl_footer_element_terms" class="gl_footer_element"><a class="gl_footer_element_link" id="gl_footer_element_link_terms" href="/sharedpages/termsofuse/?locale=en" target="_blank">Terms & Conditions</a></span>
+
+	<span class="gl_footer_element_separator">&nbsp;·&nbsp;</span>
+	<span id="gl_footer_element_logo" class="gl_footer_element"><a class="gl_footer_element_link" id="gl_footer_element_link_logo" href="http://en.bigpoint.com/" target="_blank"><img class="gl_footer_element_image" id="gl_footer_element_image_logo" src="http://sharedservices-437.ah.bpcdn.net/shared/img/footer/bigpoint_logo_h_web_rgb_neg_com_full.MINI.png" alt=""/></a></span>
+
+	<span class="gl_footer_element_separator">&nbsp;·&nbsp;</span>
+	<span id="gl_footer_element_privacy" class="gl_footer_element"><a class="gl_footer_element_link" id="gl_footer_element_link_privacy" href="/sharedpages/privacypolicy/?locale=en" target="_blank">Data Privacy Policy</a></span>
+
+	<span class="gl_footer_element_separator">&nbsp;·&nbsp;</span>
+	<span id="gl_footer_element_imprint" class="gl_footer_element"><a class="gl_footer_element_link" id="gl_footer_element_link_imprint" href="index.es?action=info" target="_blank">Legal information</a></span>
+
+	<span class="gl_footer_element_separator">&nbsp;·&nbsp;</span>
+	<span id="gl_footer_element_support" class="gl_footer_element"><a class="gl_footer_element_link" id="gl_footer_element_link_support" href="index.es?action=support" target="_blank">Support</a></span>
+
+	<span class="gl_footer_element_separator">&nbsp;·&nbsp;</span>
+	<span id="gl_footer_element_forum" class="gl_footer_element"><a class="gl_footer_element_link" id="gl_footer_element_link_forum" href="/GameAPI.php?action=portal.redirectToBoard" target="_blank">Forum</a></span></div>
+
+
+            <div id="affiliateEndTag">
+            <!-- affiliateEndTag -->
+<iframe src='http://pixel.fetchback.com/serve/fb/pdj?cat=&name=landing&sid=3887' scrolling='no' width='1' height='1' marginheight='0' marginwidth='0' frameborder='0'></iframe><!-- BPID --><script language="javascript">window.bpid=window.bpid||{};window.bpid.callbacks=window.bpid.callbacks||[];window.bpid.callbacks.push(function(bpid) {document.cookie="__bpid="+bpid+";path=/;expires=Fri, 03 Jun 2022 13:59:24 GMT;";if (bpid != null) {try {var xhr = new XMLHttpRequest();xhr.open("GET", "\/GameAPI.php?action=core.bpid&bpid="+bpid, true);xhr.send(null);} catch(e) {}}});</script><script language="javascript" src="//assets.bpsecure.com/bpid/bpid.js?ts=389993" defer="defer"></script><!-- /BPID -->
+
+<!-- Begin GA Tracking -->
+
+<script type='text/javascript'>
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAllowLinker', true]);
+  _gaq.push (['_gat._anonymizeIp']);
+  _gaq.push(['_setCustomVar', 1, 'aid', '0', 2]);
+  _gaq.push(['_setCustomVar', 2, 'aip', '', 2]);
+  _gaq.push(['_setCustomVar', 3, 'ait', '', 2]);
+  _gaq.push(['_setCustomVar', 4, 'areaID', 'external.home', 2]);
+  _gaq.push(['_setDomainName', 'darkorbit.bigpoint.com']);
+  _gaq.push(['_setAccount', 'UA-17685913-1']);
+  _gaq.push(['_trackPageview']);
+
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+<!-- End GA Tracking -->
+
+            </div>
+
+                </div>
+
+    
+    </div>
+</div>
+
+        <script>
+        </script>
+
+    </body>
+</html>
